@@ -1,1 +1,2 @@
-this is master.txt.
+this is a master.txt.
+it belongs to master.
